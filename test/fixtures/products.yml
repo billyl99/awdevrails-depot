@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+ruby:
+  title: Ruby
+  description: "Let's go"
+  image_url: fred.gif
+  price: 10.99
