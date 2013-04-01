@@ -13,7 +13,7 @@ two:
   price: 9.99
 
 ruby:
-  title: Ruby
+  title: Programming Ruby 1.9
   description: "Let's go"
   image_url: fred.gif
   price: 10.99
