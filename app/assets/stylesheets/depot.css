@@ -177,3 +177,12 @@
     border-bottom: 1px dotted #595;
     margin-bottom: 10px;
 }
+
+/* Styles for order form */
+.depot_form fieldset {
+    background: #efe;
+}
+
+.depot_form legend {
+
+}
